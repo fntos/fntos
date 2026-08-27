@@ -1,6 +1,6 @@
 {
   "system_status": {
-    "online": false,
+    "online": true,
     "maintenance_mode": false,
     "announcement": "Welcome to Fntos Empire. System is operating normally."
   },
