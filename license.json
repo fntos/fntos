@@ -12,7 +12,7 @@
   "permissions": {
     "allowed_hwids": [
       "HWID-EXAMPLE-12345",
-      "MUSTAFA-PC-ADMIN-01"
+      "6479_A74C_6050_0687."
     ],
     "banned_hwids": [
       "SUSPICIOUS-USER-X"
