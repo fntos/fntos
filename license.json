@@ -1,0 +1,21 @@
+{
+  "system_status": {
+    "online": true,
+    "maintenance_mode": false,
+    "announcement": "Welcome to Fntos Empire. System is operating normally."
+  },
+  "app_version": {
+    "latest": "2.1.0",
+    "force_update": false,
+    "download_url": "https://github.com/fntos/fntos/releases"
+  },
+  "permissions": {
+    "allowed_hwids": [
+      "HWID-EXAMPLE-12345",
+      "MUSTAFA-PC-ADMIN-01"
+    ],
+    "banned_hwids": [
+      "SUSPICIOUS-USER-X"
+    ]
+  }
+}
